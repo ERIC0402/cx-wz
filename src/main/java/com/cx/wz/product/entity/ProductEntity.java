@@ -23,7 +23,7 @@ public class ProductEntity {
 
     private String bg;
 
-    private Integer url;
+    private String url;
 
     private Boolean isToDetail;
 
